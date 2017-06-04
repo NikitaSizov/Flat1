@@ -1,0 +1,8 @@
+@font-face {
+    font-family: HelveticaLT; /* Имя шрифта */
+    src: url(../fonts/HelveticaLTStd-Cond.otf); /* Путь к файлу со шрифтом */
+}
+
+.hel_font{
+	font-family: HelveticaLT;
+}
